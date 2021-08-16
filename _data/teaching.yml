@@ -1,0 +1,11 @@
+#- name:
+#  isGraduate: 0 for undergraduate, 1 for graduate
+
+- name : Natural Langauge Processing (Fall 2020)
+  isGraduate : 0
+
+- name : Natural Langauge Processing (Fall 2019)
+  isGraduate : 0
+
+- name : Natural Langauge Processing (Fall 2018)
+  isGraduate : 0

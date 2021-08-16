@@ -1,0 +1,385 @@
+- title: "MPC-BERT: A Pre-Trained Language Model for Multi-Party Conversation Understanding"
+  authors: Jia-Chen Gu, Chongyang Tao, Zhen-Hua Ling, Can Xu, Xiubo Geng, Daxin Jiang
+  venue: The 59th Annual Meeting of the Association for Computational Linguistics (ACL), 2021.
+  link:
+    url: https://aclanthology.org/2021.acl-long.285.pdf
+    display: paper
+
+
+- title: "Partner Matters! An Empirical Study on Fusing Personas for Personalized Response Selection in Retrieval-Based Chatbots"
+  authors: Jia-Chen Gu, Hui Liu, Zhen-Hua Ling, Quan Liu, Zhigang Chen, Xiaodan Zhu
+  venue: The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2021.
+  link:
+    url: https://arxiv.org/pdf/2105.09050.pdf
+    display: paper
+    
+    
+- title: "Graph Attention and Interaction Network With Multi-Task Learning for Fact Verification"
+  authors: Rui Yang, Run-Ze Wang, Zhen-Hua Ling
+  venue: ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021.
+  link:
+    url: https://ieeexplore.ieee.org/document/9414889
+    display: paper
+
+
+- title: "Have You Made a Decision? Where? A Pilot Study on Interpretability of Polarity Analysis Based on Advising Problem"
+  authors: Tianda Li, Jia-Chen Gu, Hui Liu, Quan Liu, Zhen-Hua Ling, Zhiming Su, Xiaodan Zhu
+  venue: ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021.
+  link:
+    url: https://ieeexplore.ieee.org/document/9413654
+    display: paper
+    
+    
+- title: "Emotion-Regularized Conditional Variational Autoencoder for Emotional Response Generation"
+  authors: Yu-Ping Ruan, Zhen-Hua Ling
+  venue: IEEE Transactions on Affective Computing, 2021.
+  link:
+    url: https://arxiv.org/pdf/2104.08857.pdf
+    display: paper
+    
+    
+- title: "Deep Contextualized Utterance Representations for Response Selection and Dialogue Analysis"
+  authors: Jia-Chen Gu, Tianda Li, Zhen-Hua Ling, Quan Liu, Zhiming Su, Yu-Ping Ruan, Xiaodan Zhu
+  venue: IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2021.
+  link:
+    url: https://ieeexplore.ieee.org/document/9410366
+    display: paper
+
+
+- title: "A Multiple-Integration Encoder for Multi-Turn Text-to-SQL Semantic Parsing"
+  authors: Run-Ze Wang, Zhen-Hua Ling, Jing-Bo Zhou, Yu Hu
+  venue: IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2021.
+  link:
+    url: https://ieeexplore.ieee.org/document/9394726
+    display: paper
+
+
+- title: "Tracking Interaction States for Multi-Turn Text-to-SQL Semantic Parsing"
+  authors: Run-Ze Wang, Zhen-Hua Ling, Jing-Bo Zhou, Yu Hu
+  venue: The Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021.
+  link:
+    url: https://arxiv.org/pdf/2012.04995.pdf
+    display: paper
+
+
+- title: "Learning to Retrieve Entity-Aware Knowledge and Generate Responses with Copy Mechanism for Task-Oriented Dialogue Systems"
+  authors: Chao-Hong Tan, Xiaoyu Yang, Zi'ou Zheng, Tianda Li, Yufei Feng, Jia-Chen Gu, Quan Liu, Dan Liu, Zhen-Hua Ling, Xiaodan Zhu
+  venue: The Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI) Workshop on the Ninth Dialog System Technology Challenges (DSTC), 2021.
+  link:
+    url: https://arxiv.org/pdf/2012.11937.pdf
+    display: paper
+    
+    
+- title: "Text Classification by Contrastive Learning and Cross-lingual Data Augmentation for Alzheimer’s Disease Detection"
+  authors: Zhiqiang Guo, Zhaoci Liu, Zhenhua Ling, Shijin Wang, Lingjing Jin, Yunxia Li
+  venue: The 28th International Conference on Computational Linguistics (COLING), 2020.
+  link:
+    url: https://aclanthology.org/2020.coling-main.542.pdf
+    display: paper
+    
+
+- title: "Condition-Transforming Variational Autoencoder for Generating Diverse Short Text Conversations"
+  authors: Yu-Ping Ruan, Zhen-Hua Ling, Xiaodan Zhu
+  venue: ACM Transactions on Asian and Low-Resource Language Information Processing, 2020.
+  link:
+    url: https://dl.acm.org/doi/10.1145/3402884
+    display: paper
+
+
+- title: "Generating Diverse Conversation Responses by Creating and Ranking Multiple Candidates"
+  authors: Yu-Ping Ruan, Zhen-Hua Ling, Xiaodan Zhu, Quan Liu, Jia-Chen Gu
+  venue: Computer Speech & Language, 2020.
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0885230820300048
+    display: paper
+    
+
+- title: "Filtering before Iteratively Referring for Knowledge-Grounded Response Selection in Retrieval-Based Chatbots"
+  authors: Jia-Chen Gu, Zhen-Hua Ling, Quan Liu, Zhigang Chen, Xiaodan Zhu
+  venue: Findings of The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020.
+  link:
+    url: https://aclanthology.org/2020.findings-emnlp.127.pdf
+    display: paper
+
+
+- title: "Joint Intent Detection and Entity Linking on Spatial Domain Queries"
+  authors: Lei Zhang, Run-Ze Wang, Jingbo Zhou, Jingsong Yu, Zhen-Hua Ling, Hui Xiong
+  venue: Findings of The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020.
+  link:
+    url: https://aclanthology.org/2020.findings-emnlp.444.pdf
+    display: paper
+
+
+- title: "Speaker-Aware BERT for Multi-Turn Response Selection in Retrieval-Based Chatbots"
+  authors: Jia-Chen Gu, Tianda Li, Quan Liu, Zhen-Hua Ling, Zhiming Su, Si Wei, Xiaodan Zhu
+  venue: The 29th ACM International Conference on Information and Knowledge Management (CIKM), 2020.
+  link:
+    url: https://arxiv.org/pdf/2004.03588.pdf
+    display: paper
+
+
+- title: "Pre-Trained and Attention-Based Neural Networks for Building Noetic Task-Oriented Dialogue Systems"
+  authors: Jia-Chen Gu, Tianda Li, Quan Liu, Xiaodan Zhu, Zhen-Hua Ling, Yu-Ping Ruan
+  venue: The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI) Workshop on the Eighth Dialog System Technology Challenges (DSTC), 2020.
+  link:
+    url: https://arxiv.org/pdf/2004.01940
+    display: paper
+    
+    
+- title: "Fine-Tuning BERT for Schema-Guided Zero-Shot Dialogue State Tracking"
+  authors: Yu-Ping Ruan, Zhen-Hua Ling, Jia-Chen Gu, Quan Liu
+  venue: The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI) Workshop on the Eighth Dialog System Technology Challenges (DSTC), 2020.
+  link:
+    url: https://arxiv.org/pdf/2002.00181.pdf
+    display: paper
+
+
+- title: "Utterance-to-Utterance Interactive Matching Network for Multi-Turn Response Selection in Retrieval-Based Chatbots"
+  authors: Jia-Chen Gu, Zhen-Hua Ling, Quan Liu
+  venue: IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020.
+  link:
+    url: https://arxiv.org/pdf/1911.06940.pdf
+    display: paper
+    
+    
+- title: "Linguistic Steganography by Sampling-based Language Generation"
+  authors: Rui Yang, Zhen-Hua Ling
+  venue: 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), 2019.
+  link:
+    url: https://ieeexplore.ieee.org/document/9023313
+    display: paper       
+    
+    
+- title: "Dually Interactive Matching Network for Personalized Response Selection in Retrieval-Based Chatbots"
+  authors: Jia-Chen Gu, Zhen-Hua Ling, Xiaodan Zhu, Quan Liu
+  venue: The 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2019.
+  link:
+    url: https://aclanthology.org/D19-1193.pdf
+    display: paper 
+    
+    
+- title: "Interactive Matching Network for Multi-Turn Response Selection in Retrieval-Based Chatbots"
+  authors: Jia-Chen Gu, Zhen-Hua Ling, Quan Liu
+  venue: The 28th ACM International Conference on Information and Knowledge Management (CIKM), 2019.
+  link:
+    url: https://arxiv.org/pdf/1901.01824.pdf
+    display: paper  
+    
+    
+- title: "Multi-Classification Model for Spoken Language Understanding"
+  authors: Chao-Hong Tan, Zhen-Hua Ling
+  venue: 2019 International Conference on Multimodal Interaction (ICMI), 2019.
+  link:
+    url: https://dl.acm.org/doi/10.1145/3340555.3356099
+    display: paper    
+    
+    
+- title: "A Chinese Dataset for Identifying Speakers in Novels"
+  authors: Jia-Xiang Chen, Zhen-Hua Ling, Li-Rong Dai
+  venue: The 20th Annual Conference of the International Speech Communication Association (Interspeech), 2019.
+  link:
+    url: https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1614.pdf
+    display: paper     
+    
+    
+- title: "Multi-Level Matching and Aggregation Network for Few-Shot Relation Classification"
+  authors: Zhi-Xiu Ye, Zhen-Hua Ling
+  venue: The 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019.
+  link:
+    url: https://aclanthology.org/P19-1277.pdf
+    display: paper    
+
+
+- title: "Distant Supervision Relation Extraction with Intra-Bag and Inter-Bag Attentions"
+  authors: Zhi-Xiu Ye, Zhen-Hua Ling
+  venue: The 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2019.
+  link:
+    url: https://aclanthology.org/N19-1288.pdf
+    display: paper  
+
+
+- title: "Condition-Transforming Variational AutoEncoder for Conversation Response Generation"
+  authors: Yu-Ping Ruan, Zhen-Hua Ling, Quan Liu, Zhigang Chen, Nitin Indurkhya
+  venue: ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019.
+  link:
+    url: https://arxiv.org/pdf/1904.10610.pdf
+    display: paper 
+
+
+- title: "Building Sequential Inference Models for End-to-End Response Selection"
+  authors: Jia-Chen Gu, Zhen-Hua Ling, Yu-Ping Ruan, Quan Liu
+  venue: The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI) Workshop on the Seventh Dialog System Technology Challenges (DSTC), 2019.
+  link:
+    url: https://arxiv.org/pdf/1812.00686.pdf
+    display: paper
+
+
+- title: "Promoting Diversity for End-to-End Conversation Response Generation"
+  authors: Yu-Ping Ruan, Zhen-Hua Ling, Quan Liu, Jia-Chen Gu, Xiaodan Zhu
+  venue: The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI) Workshop on the Seventh Dialog System Technology Challenges (DSTC), 2019.
+  link:
+    url: https://arxiv.org/pdf/1901.09444
+    display: paper
+    
+
+- title: "Detecting Alzheimer’s Disease from Continuous Speech Using Language Model"
+  authors: Zhi-Qiang Guo, Zhen-Hua Ling, Yunxia Li
+  venue: Journal of Alzheimer's Disease, 2019.
+  link:
+    url: https://content.iospress.com/articles/journal-of-alzheimers-disease/jad190452
+    display: paper
+
+
+- title: "Knowledge Base Question Answering With Attentive Pooling for Question Representation"
+  authors: Run-Ze Wang, Zhen-Hua Ling, Yu Hu
+  venue: IEEE Access, 2019.
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8684200
+    display: paper
+    
+    
+- title: "A Sequential Neural Encoder with Latent Structured Description for Modeling Sentences"
+  authors: Yu-Ping Ruan, Qian Chen, Zhen-Hua Ling 
+  venue: IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019.
+  link:
+    url: https://arxiv.org/pdf/1711.05433.pdf
+    display: paper
+    
+    
+- title: "Enhancing Sentence Embedding with Generalized Pooling"
+  authors: Qian Chen, Zhen-Hua Ling, Xiaodan Zhu
+  venue: The 27th International Conference on Computational Linguistics (COLING), 2018.
+  link:
+    url: https://aclanthology.org/C18-1154.pdf
+    display: paper    
+    
+
+- title: "Neural Natural Language Inference Models Enhanced with External Knowledge"
+  authors: Qian Chen, Xiao-Dan Zhu, Zhen-Hua Ling, Diana Inkpen, Si Wei
+  venue: The 56th Annual Meeting of the Association for Computational Linguistics (ACL), 2018.
+  link:
+    url: https://aclanthology.org/P18-1224.pdf
+    display: paper    
+    
+    
+- title: "Hybrid semi-Markov CRF for Neural Sequence Labeling"
+  authors: Zhi-Xiu Ye, Zhen-Hua Ling
+  venue: The 56th Annual Meeting of the Association for Computational Linguistics (ACL), 2018.
+  link:
+    url: https://aclanthology.org/P18-2038.pdf
+    display: paper      
+    
+
+- title: "A Study on Improving End-to-End Neural Coreference Resolution"
+  authors: Jia-Chen Gu, Zhen-Hua Ling, Nitin Indurkhya
+  venue: Chinese Computational Linguistics and Natural Language Processing Based on Naturally Annotated Big Data, 2018.
+  link:
+    url: http://www.cips-cl.org/static/anthology/CCL-2018/CCL-18-093.pdf
+    display: paper  
+    
+    
+- title: "Automatic Detection of Alzheimer’s Disease Based on Analysis and Modeling of Spoken Language"
+  authors: Zhi-Qiang Guo, Zhen-Hua Ling, Yunxia Li
+  venue: Chinese Journal of Phonetics, 2018.
+  link:
+    url: https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCJD&dbname=CCJDTEMP&filename=ZYUB201802012&v=IFZ0Wsk3WcXo2zz5%25mmd2BIrozMyMm3ll%25mmd2FGDLM%25mmd2BVd%25mmd2FcGkpslRp5v%25mmd2Bgq7axKim30%25mmd2FTm0rZ
+    display: paper
+
+
+- title: "Representational similarity analysis reveals task-dependent semantic influence of the visual word form area"
+  authors: Xiaosha Wang, Yangwen Xu, Yuwei Wang, Yi Zeng, Jiacai Zhang, Zhenhua Ling, Yanchao Bi
+  venue: Scientific Reports, 2018.
+  link:
+    url: https://www.nature.com/articles/s41598-018-21062-0
+    display: paper
+    
+    
+- title: "Recurrent Neural Network-Based Sentence Encoder with Gated Attention for Natural Language Inference"
+  authors: Qian Chen, Xiaodan Zhu, Zhen-Hua Ling, Si Wei, Hui Jiang, Diana Inkpen
+  venue: The 2017 Confence on Empirical Methods in Natural Language Processing (EMNLP) Workshop on Evaluating Vector Space Representations for NLP (RepEval), 2017.
+  link:
+    url: https://aclanthology.org/W17-5307.pdf
+    display: paper       
+    
+    
+- title: "Cause-Effect Knowledge Acquisition and Neural Association Model for Solving A Set of Winograd Schema Problems"
+  authors: Quan Liu, Hui Jiang, A. Evdokimov, Zhen-Hua Ling , Xiaodan Zhu, Si Wei, Yu Hu
+  venue: The Twenty-Sixth International Joint Conference on Artificial Intelligence (IJCAI), 2017.
+  link:
+    url: https://www.ijcai.org/proceedings/2017/0326.pdf
+    display: paper      
+    
+    
+- title: "Enhanced LSTM for Natural Language Inference"
+  authors: Qian Chen, Xiaodan Zhu, Zhen-Hua Ling
+  venue: The 55th Annual Meeting of the Association for Computational Linguistics (ACL), 2017.
+  link:
+    url: https://aclanthology.org/P17-1152.pdf
+    display: paper
+    
+
+- title: "Question Answering with Character-Level LSTM Encoders and Model-Based Data Augmentation"
+  authors: Run-Ze Wang, Chen-Di Zhan, Zhen-Hua Ling 
+  venue: Chinese Computational Linguistics and Natural Language Processing Based on Naturally Annotated Big Data, 2017.
+  link:
+    url: http://www.cips-cl.org/static/anthology/CCL-2017/CCL-17-089.pdf
+    display: paper 
+    
+
+- title: "Organizational Principles of Abstract Words in the Human Brain"
+  authors: Xiaosha Wang, Wei Wu, Zhen-Hua Ling , Yang-Wen Xu, Yu-Xing Fang, Xiao-Ying Wang, Jeffrey R. Binder, Wei-Wei Men, Jia-Hong Gao, Yan-Chao Bi
+  venue: Cerebral Cortex, 2017.
+  link:
+    url: https://academic.oup.com/cercor/article/28/12/4305/4653778
+    display: paper
+    
+    
+- title: "Exploring Semantic Representation in Brain Activity Using Word Embeddings"
+  authors: Yu-Ping Ruan, Zhen-Hua Ling
+  venue: The 2016 Confence on Empirical Methods in Natural Language Processing (EMNLP), 2016.
+  link:
+    url: https://aclanthology.org/D16-1064.pdf
+    display: paper       
+    
+    
+- title: "Distraction-based Neural Models for Document Summarization"
+  authors: Qian Chen, Xiaodan Zhu, Zhen-Hua Ling, Si Wei, Hui Jiang,
+  venue: The Twenty-Fifth International Joint Conference on Artificial Intelligence (IJCAI), 2016.
+  link:
+    url: https://www.ijcai.org/Proceedings/16/Papers/391.pdf
+    display: paper      
+
+
+- title: "Probabilistic Reasoning via Deep Learning: Neural Association Models"
+  authors: Quan Liu, Hui Jiang, Zhen-Hua Ling, Si Wei, Yu Hu
+  venue: The Twenty-Fifth International Joint Conference on Artificial Intelligence (IJCAI) Workshop on Deep Learning for Artificial Intelligence (DLAI), 2016.
+  link:
+    url: https://arxiv.org/pdf/1603.07704.pdf
+    display: paper    
+    
+    
+- title: "Intra-Topic Variability Normalization based on Linear Projection for Topic Classification"
+  authors: Quan Liu, Wu Guo, Zhen-Hua Ling, Hui Jiang, Yu Hu
+  venue: The 2016 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2016.
+  link:
+    url: https://aclanthology.org/N16-1051.pdf
+    display: paper    
+    
+
+- title: "Learning Word Embeddings for Paraphrase Scoring in Knowledge Base Based Question Answering"
+  authors: Chen-Di Zhan, Zhen-Hua Ling, Li-Rong Dai
+  venue: Chinese Journal of Pattern Recognition and Artificial Intelligence， 2016.
+  link:
+    url: https://www.cnki.net/kcms/doi/10.16451/j.cnki.issn1003-6059.201609007.html
+    display: paper  
+    
+    
+- title: "Learning Semantic Word Embeddings based on Ordinal Knowledge Constraints"
+  authors: Quan Liu, Hui Jiang, Si Wei, Zhen-Hua Ling, Yu Hu
+  venue: The 53th Annual Meeting of the Association for Computational Linguistics (ACL), 2015.
+  link:
+    url: https://aclanthology.org/P15-1145.pdf
+    display: paper    
+
+
+
