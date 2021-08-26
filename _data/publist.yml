@@ -1,3 +1,19 @@
+- title: "Detecting Speaker Personas from Conversational Texts"
+  authors: Jia-Chen Gu, Zhen-Hua Ling, Yu Wu, Quan Liu, Zhigang Chen, Xiaodan Zhu
+  venue: The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021.
+  link:
+    url: https://ustcnlp.github.io/publications/
+    display: paper
+    
+    
+- title: "A Neural-Network-Based Approach to Identifying Speakers in Novels"
+  authors: Yue Chen, Zhen-Hua Ling, Qing-Feng Liu
+  venue: The 22nd Annual Conference of the International Speech Communication Association (Interspeech), 2021.
+  link:
+    url: https://ustcnlp.github.io/publications/
+    display: paper
+
+
 - title: "MPC-BERT: A Pre-Trained Language Model for Multi-Party Conversation Understanding"
   authors: Jia-Chen Gu, Chongyang Tao, Zhen-Hua Ling, Can Xu, Xiubo Geng, Daxin Jiang
   venue: The 59th Annual Meeting of the Association for Computational Linguistics (ACL), 2021.
@@ -54,7 +70,7 @@
     display: paper
 
 
-- title: "Tracking Interaction States for Multi-Turn Text-to-SQL Semantic Parsing"
+- title: "Tracking ssssssssssssssssssaction States for Multi-Turn Text-to-SQL Semantic Parsing"
   authors: Run-Ze Wang, Zhen-Hua Ling, Jing-Bo Zhou, Yu Hu
   venue: The Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021.
   link:
