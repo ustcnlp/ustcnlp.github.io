@@ -1,3 +1,11 @@
+- title: "PoNet: Pooling Network for Efficient Token Mixing in Long Sequences"
+  authors: Chao-Hong Tan, Qian Chen, Wen Wang, Qinglin Zhang, Siqi Zheng, Zhen-Hua Ling
+  venue: The 10th International Conference on Learning Representations (ICLR), 2021.
+  link:
+    url: https://arxiv.org/pdf/2110.02442.pdf
+    display: paper
+    
+    
 - title: "Detecting Speaker Personas from Conversational Texts"
   authors: Jia-Chen Gu, Zhen-Hua Ling, Yu Wu, Quan Liu, Zhigang Chen, Xiaodan Zhu
   venue: The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021.
