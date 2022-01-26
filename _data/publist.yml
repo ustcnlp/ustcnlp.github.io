@@ -1,6 +1,13 @@
+- title: "Neural Grapheme-to-Phoneme Conversion with Pre-trained Grapheme Models"
+  authors: Lu Dong, Zhi-Qiang Guo, Chao-Hong Tan, Ya-Jun Hu, Yuan Jiang, Zhen-Hua Ling
+  venue: ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022.
+  link:
+    url: https://ustcnlp.github.io/publications/
+    display: paper
+
 - title: "PoNet: Pooling Network for Efficient Token Mixing in Long Sequences"
   authors: Chao-Hong Tan, Qian Chen, Wen Wang, Qinglin Zhang, Siqi Zheng, Zhen-Hua Ling
-  venue: The 10th International Conference on Learning Representations (ICLR), 2021.
+  venue: The 10th International Conference on Learning Representations (ICLR), 2022.
   link:
     url: https://arxiv.org/pdf/2110.02442.pdf
     display: paper
@@ -392,7 +399,7 @@
 
 - title: "Learning Word Embeddings for Paraphrase Scoring in Knowledge Base Based Question Answering"
   authors: Chen-Di Zhan, Zhen-Hua Ling, Li-Rong Dai
-  venue: Chinese Journal of Pattern Recognition and Artificial Intelligence， 2016.
+  venue: Chinese Journal of Pattern Recognition and Artificial Intelligence, 2016.
   link:
     url: https://www.cnki.net/kcms/doi/10.16451/j.cnki.issn1003-6059.201609007.html
     display: paper  
