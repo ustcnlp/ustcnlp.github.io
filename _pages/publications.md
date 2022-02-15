@@ -1,7 +1,7 @@
 ---
 title: "USTC NLP Group - Publications"
 layout: gridlay
-excerpt: "USTC NLP Grou -- Publications."
+excerpt: "USTC NLP Group - Publications."
 sitemap: false
 permalink: /publications/
 ---
