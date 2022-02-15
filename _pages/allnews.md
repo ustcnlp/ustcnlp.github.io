@@ -1,7 +1,7 @@
 ---
 title: "USTC NLP Group - News"
 layout: textlay
-excerpt: "USTC NLP Group: News"
+excerpt: "USTC NLP Group - News"
 sitemap: false
 permalink: /allnews.html
 ---
