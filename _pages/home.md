@@ -1,7 +1,7 @@
 ---
 title: "USTC NLP Group - Home"
 layout: homelay
-excerpt: "USTC NLP Group"
+excerpt: "USTC NLP Group - Home"
 sitemap: false
 permalink: /
 ---
