@@ -1,7 +1,7 @@
 ---
 title: "USTC NLP Group - Team"
 layout: gridlay
-excerpt: "USTC NLP Group: Team members"
+excerpt: "USTC NLP Group - Team"
 sitemap: false
 permalink: /team/
 ---
