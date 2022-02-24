@@ -1,3 +1,17 @@
+- title: "HeterMPC: A Heterogeneous Graph Neural Network for Response Generation in Multi-Party Conversations"
+  authors: Jia-Chen Gu, Chao-Hong Tan, Chongyang Tao, Zhen-Hua Ling, Huang Hu, Xiubo Geng, Daxin Jiang
+  venue: The 60th Annual Meeting of the Association for Computational Linguistics (ACL), 2022.
+  link:
+    url: https://ustcnlp.github.io/publications/
+    display: paper
+
+- title: "TegTok: Augmenting Text Generation via Task-specific and Open-world Knowledge"
+  authors: Chao-Hong Tan, Jia-Chen Gu, Chongyang Tao, Zhen-Hua Ling, Can Xu, Huang Hu, Xiubo Geng, Daxin Jiang
+  venue: Findings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL), 2022.
+  link:
+    url: https://ustcnlp.github.io/publications/
+    display: paper
+    
 - title: "Neural Grapheme-to-Phoneme Conversion with Pre-trained Grapheme Models"
   authors: Lu Dong, Zhi-Qiang Guo, Chao-Hong Tan, Ya-Jun Hu, Yuan Jiang, Zhen-Hua Ling
   venue: ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022.
@@ -127,7 +141,7 @@
 
 - title: "Filtering before Iteratively Referring for Knowledge-Grounded Response Selection in Retrieval-Based Chatbots"
   authors: Jia-Chen Gu, Zhen-Hua Ling, Quan Liu, Zhigang Chen, Xiaodan Zhu
-  venue: Findings of The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020.
+  venue: Findings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020.
   link:
     url: https://aclanthology.org/2020.findings-emnlp.127.pdf
     display: paper
@@ -135,7 +149,7 @@
 
 - title: "Joint Intent Detection and Entity Linking on Spatial Domain Queries"
   authors: Lei Zhang, Run-Ze Wang, Jingbo Zhou, Jingsong Yu, Zhen-Hua Ling, Hui Xiong
-  venue: Findings of The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020.
+  venue: Findings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020.
   link:
     url: https://aclanthology.org/2020.findings-emnlp.444.pdf
     display: paper
