@@ -14,4 +14,4 @@ Broadly, we are interested in designing scalable inference and learning algorith
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/logos/logo_ustc.png" class="img-responsive" width="25%" style="float: left" />
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logos/logo_nelslip.png" class="img-responsive" width="25%" style="float: right" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logos/logo_nercslip.jpg" class="img-responsive" width="25%" style="float: right" />
