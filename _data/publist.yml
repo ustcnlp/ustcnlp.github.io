@@ -1,3 +1,24 @@
+- title: "Who Says What to Whom: A Survey of Multi-Party Conversations"
+  authors: Jia-Chen Gu, Chongyang Tao, Zhen-Hua Ling
+  venue: The Thirty-First International Joint Conference on Artificial Intelligence (IJCAI), 2022.
+  link:
+    url: https://ustcnlp.github.io/publications/
+    display: paper
+
+- title: "Conversation- and Tree-Structure Losses for Dialogue Disentanglement"
+  authors: Tianda Li, Jia-Chen Gu, Zhen-Hua Ling, Quan Liu
+  venue: The DialDoc Workshop at the 60th Annual Meeting of the Association for Computational Linguistics (ACL), 2022.
+  link:
+    url: https://ustcnlp.github.io/publications/
+    display: paper
+
+- title: "USTC-NELSLIP at SemEval-2022 Task 11: Gazetteer-Adapted Integration Network for Multilingual Complex Named Entity Recognition"
+  authors: Beiduo Chen, Jun-Yu Ma, Jiajun Qi, Wu Guo, Zhen-Hua Ling, Quan Liu
+  venue: The 16th International Workshop on Semantic Evaluation (SemEval), 2022.
+  link:
+    url: https://arxiv.org/pdf/2203.03216.pdf
+    display: paper
+
 - title: "HeterMPC: A Heterogeneous Graph Neural Network for Response Generation in Multi-Party Conversations"
   authors: Jia-Chen Gu, Chao-Hong Tan, Chongyang Tao, Zhen-Hua Ling, Huang Hu, Xiubo Geng, Daxin Jiang
   venue: The 60th Annual Meeting of the Association for Computational Linguistics (ACL), 2022.
