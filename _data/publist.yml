@@ -9,7 +9,7 @@
   authors: Tianda Li, Jia-Chen Gu, Zhen-Hua Ling, Quan Liu
   venue: The DialDoc Workshop at the 60th Annual Meeting of the Association for Computational Linguistics (ACL), 2022.
   link:
-    url: https://ustcnlp.github.io/publications/
+    url: https://aclanthology.org/2022.dialdoc-1.6.pdf
     display: paper
 
 - title: "USTC-NELSLIP at SemEval-2022 Task 11: Gazetteer-Adapted Integration Network for Multilingual Complex Named Entity Recognition"
@@ -23,14 +23,14 @@
   authors: Jia-Chen Gu, Chao-Hong Tan, Chongyang Tao, Zhen-Hua Ling, Huang Hu, Xiubo Geng, Daxin Jiang
   venue: The 60th Annual Meeting of the Association for Computational Linguistics (ACL), 2022.
   link:
-    url: https://arxiv.org/pdf/2203.08500.pdf
+    url: https://aclanthology.org/2022.acl-long.349.pdf
     display: paper
 
 - title: "TegTok: Augmenting Text Generation via Task-specific and Open-world Knowledge"
   authors: Chao-Hong Tan, Jia-Chen Gu, Chongyang Tao, Zhen-Hua Ling, Can Xu, Huang Hu, Xiubo Geng, Daxin Jiang
   venue: Findings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL), 2022.
   link:
-    url: https://arxiv.org/pdf/2203.08517.pdf
+    url: https://aclanthology.org/2022.findings-acl.125.pdf
     display: paper
     
 - title: "Neural Grapheme-to-Phoneme Conversion with Pre-trained Grapheme Models"
@@ -44,7 +44,7 @@
   authors: Chao-Hong Tan, Qian Chen, Wen Wang, Qinglin Zhang, Siqi Zheng, Zhen-Hua Ling
   venue: The 10th International Conference on Learning Representations (ICLR), 2022.
   link:
-    url: https://arxiv.org/pdf/2110.02442.pdf
+    url: https://openreview.net/pdf?id=9jInD9JjicF
     display: paper
     
     
