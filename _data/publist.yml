@@ -2,7 +2,7 @@
   authors: Jia-Chen Gu, Chongyang Tao, Zhen-Hua Ling
   venue: The Thirty-First International Joint Conference on Artificial Intelligence (IJCAI), 2022.
   link:
-    url: https://ustcnlp.github.io/publications/
+    url: https://www.ijcai.org/proceedings/2022/0768.pdf
     display: paper
 
 - title: "Conversation- and Tree-Structure Losses for Dialogue Disentanglement"
@@ -16,7 +16,7 @@
   authors: Beiduo Chen, Jun-Yu Ma, Jiajun Qi, Wu Guo, Zhen-Hua Ling, Quan Liu
   venue: The 16th International Workshop on Semantic Evaluation (SemEval), 2022.
   link:
-    url: https://arxiv.org/pdf/2203.03216.pdf
+    url: https://aclanthology.org/2022.semeval-1.223.pdf
     display: paper
 
 - title: "HeterMPC: A Heterogeneous Graph Neural Network for Response Generation in Multi-Party Conversations"
