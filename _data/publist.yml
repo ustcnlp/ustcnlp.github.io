@@ -1,3 +1,10 @@
+- title: "Wider & Closer: Mixture of Short-channel Distillers for Zero-shot Cross-lingual Named Entity Recognition"
+  authors: Jun-Yu Ma, Beiduo Chen, Jia-Chen Gu, Zhen-Hua Ling, Wu Guo, Quan Liu, Zhigang Chen, Cong Liu
+  venue: The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022.
+  link:
+    url: https://ustcnlp.github.io/publications/
+    display: paper
+
 - title: "Who Says What to Whom: A Survey of Multi-Party Conversations"
   authors: Jia-Chen Gu, Chongyang Tao, Zhen-Hua Ling
   venue: The Thirty-First International Joint Conference on Artificial Intelligence (IJCAI), 2022.
