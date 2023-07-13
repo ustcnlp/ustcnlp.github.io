@@ -1,3 +1,24 @@
+- title: "GIFT: Graph-Induced Fine-Tuning for Multi-Party Conversation Understanding"
+  authors: Jia-Chen Gu, Zhe-Hua Ling, Quan Liu, Cong Liu, Guoping Hu
+  venue: The 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023.
+  link:
+    url: https://aclanthology.org/2023.acl-long.651.pdf
+    display: paper
+
+- title: "Pre-training Language Model as a Multi-perspective Course Learner"
+  authors: Beiduo Chen, Shaohan Huang, Zihan Zhang, Wu Guo, Zhen-Hua Ling, Haizhen Huang, Furu Wei, Weiwei Deng, Qi Zhang
+  venue: Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023.
+  link:
+    url: https://aclanthology.org/2023.findings-acl.9.pdf
+    display: paper
+
+- title: "USTC-NELSLIP at SemEval-2023 Task 2: Statistical Construction and Dual Adaptation of Gazetteer for Multilingual Complex NER"
+  authors: Jun-Yu Ma, Jia-Chen Gu, Jiajun Qi, Zhen-Hua Ling, Quan Liu, Xiaoyi Zhao
+  venue: The 17th International Workshop on Semantic Evaluation (SemEval), 2023.
+  link:
+    url: https://aclanthology.org/2023.semeval-1.89.pdf
+    display: paper
+
 - title: "Wider & Closer: Mixture of Short-channel Distillers for Zero-shot Cross-lingual Named Entity Recognition"
   authors: Jun-Yu Ma, Beiduo Chen, Jia-Chen Gu, Zhen-Hua Ling, Wu Guo, Quan Liu, Zhigang Chen, Cong Liu
   venue: The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022.
