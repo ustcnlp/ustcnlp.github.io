@@ -1,3 +1,24 @@
+- title: "MADNet: Maximizing Addressee Deduction Expectation for Multi-Party Conversation Generation"
+  authors: Jia-Chen Gu, Chao-Hong Tan, Caiyuan Chu, Zhen-Hua Ling, Chongyang Tao, Quan Liu, Cong Liu
+  venue: The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.
+  link:
+    url: https://arxiv.org/pdf/2305.12733.pdf
+    display: paper
+
+- title: "Symbolization, Prompt, and Classification: A Framework for Implicit Speaker Identification in Novels"
+  authors: Yue Chen, Tian-Wei He, Hong-Bin Zhou, Jia-Chen Gu, Heng Lu, Zhen-Hua Ling
+  venue: Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.
+  link:
+    url: https://ustcnlp.github.io/publications/
+    display: paper
+
+- title: "Is ChatGPT a Good Multi-Party Conversation Solver?"
+  authors: Chao-Hong Tan, Jia-Chen Gu, Zhen-Hua Ling
+  venue: Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.
+  link:
+    url: https://ustcnlp.github.io/publications/
+    display: paper
+
 - title: "GIFT: Graph-Induced Fine-Tuning for Multi-Party Conversation Understanding"
   authors: Jia-Chen Gu, Zhe-Hua Ling, Quan Liu, Cong Liu, Guoping Hu
   venue: The 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023.
