@@ -1,8 +1,15 @@
+- title: "Neighboring Perturbations of Knowledge Editing on Large Language Models"
+  authors: Jun-Yu Ma, Jia-Chen Gu, Ningyu Zhang, Zhen-Hua Ling
+  venue: The 41st International Conference on Machine Learning (ICML 2024).
+  link:
+    url: https://arxiv.org/pdf/2401.17623
+    display: paper
+
 - title: "Multiscale Matching Driven by Cross-Modal Similarity Consistency for Audio-Text Retrieval"
   authors: Qian Wang, Jia-Chen Gu, Zhen-Hua Ling
   venue: ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024.
   link:
-    url: https://ustcnlp.github.io/publications/
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10446302
     display: paper
 
 - title: "MADNet: Maximizing Addressee Deduction Expectation for Multi-Party Conversation Generation"
