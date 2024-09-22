@@ -1,3 +1,12 @@
+- title: "Model Editing Harms General Abilities of Large Language Models:Regularization to the Rescue"
+  authors: Jia-Chen Gu, Hao-Xiang Xu, Jun-Yu Ma, Pan Lu, Zhen-Hua Ling, Kai-Wei Chang, Nanyun Peng
+  venue: The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024.
+  link:
+    url: https://arxiv.org/pdf/2401.04700
+    display: paper
+
+
+
 - title: "Neighboring Perturbations of Knowledge Editing on Large Language Models"
   authors: Jun-Yu Ma, Jia-Chen Gu, Ningyu Zhang, Zhen-Hua Ling
   venue: The 41st International Conference on Machine Learning (ICML 2024).
