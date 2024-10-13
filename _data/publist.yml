@@ -1,4 +1,12 @@
 - title: "Model Editing Harms General Abilities of Large Language Models:Regularization to the Rescue"
+  authors: Jun-Yu Ma, Jia-Chen Gu, Zhen-Hua Ling, Quan Liu, Cong Liu, Guoping Hu
+  venue: IEEE Transactions on Audio, Speech, and Language Processing
+  link:
+    url: https://arxiv.org/pdf/2305.12389.pdf
+    display: paper
+
+
+- title: "Model Editing Harms General Abilities of Large Language Models:Regularization to the Rescue"
   authors: Jia-Chen Gu, Hao-Xiang Xu, Jun-Yu Ma, Pan Lu, Zhen-Hua Ling, Kai-Wei Chang, Nanyun Peng
   venue: The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024.
   link:
