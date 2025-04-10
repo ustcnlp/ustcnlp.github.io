@@ -5,6 +5,12 @@
     url: https://arxiv.org/abs/2405.16821
     display: paper
 
+- title: "Constraining Sequential Model Editing with Editing Anchor Compression"
+  authors: Hao-Xiang Xu, Jun-Yu Ma, Zhen-Hua Ling, Ningyu Zhang, Jia-Chen Gu
+  venue: Findings of 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), 2025.
+  link:
+    url: https://arxiv.org/abs/2503.00035
+    display: paper
 
 - title: "SHINE: Syntax-augmented Hierarchical Interactive Encoder for Zero-shot Cross-lingual Information Extraction"
   authors: Jun-Yu Ma, Jia-Chen Gu, Zhen-Hua Ling, Quan Liu, Cong Liu, Guoping Hu
