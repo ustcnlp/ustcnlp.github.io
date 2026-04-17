@@ -1,3 +1,38 @@
+- title: "Reliable Batch-Sequential Model Editing via Enhanced Editing Anchor Compression"
+  authors: Hao-Xiang Xu, Ziqi Peng, Xiaoyu Wang, Hanjie Guo, Zhen-Hua Ling
+  venue: ACM Transactions on Intelligent Systems and Technology.
+  link:
+    url: https://dl.acm.org/doi/epdf/10.1145/3803803
+    display: paper
+
+- title: "TangleScore: Tangle-Guided Purge and Imprint for Unstructured Knowledge Editing"
+  authors: Hao-Xiang Xu, Ziqi Peng, Jun-Yu Ma, Yuhao Sun, Zhen-Hua Ling, Jia-Chen Gu
+  venue: The Fourteenth International Conference on Learning Representations (ICLR), 2025.
+  link:
+    url: https://openreview.net/pdf?id=TbLkgJCGfc
+    display: paper
+
+- title: "Understanding Textual Capability Degradation in Speech LLMs via Parameter Importance Analysis"
+  authors: Chao Wang, Rui-Chen Zheng, Yang Ai, Zhen-Hua Ling
+  venue: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026
+  link:
+    url: https://arxiv.org/abs/2509.23755
+    display: paper
+
+- title: "Multiplicative Orthogonal Sequential Editing for Language Models"
+  authors: Hao-Xiang Xu, Jun-Yu Ma, Ziqi Peng, Yuhao Sun, Zhen-Hua Ling, Jia-Chen Gu
+  venue: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026.
+  link:
+    url: https://arxiv.org/abs/2601.07873
+    display: paper
+
+- title: "RPO: Retrieval Preference Optimization for Robust Retrieval-Augmented Generation"
+  authors: Shi-Qi Yan, Quan Liu, Zhen-Hua Ling
+  venue: The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025.
+  link:
+    url: https://arxiv.org/abs/2501.13726
+    display: paper
+
 - title: "Perturbation-Restrained Sequential Model Editing"
   authors: Jun-Yu Ma, Hong Wang, Hao-Xiang Xu, Zhen-Hua Ling, Jia-Chen Gu
   venue: The Thirteenth International Conference on Learning Representations (ICLR), 2025.
