@@ -1,3 +1,17 @@
+- title: "Evaluating the Reversal Curse in Model Editing"
+  authors: Hao-Xiang Xu, Jun-Yu Ma, Zhen-Hua Ling, Quan Liu, Cong Liu, Jia-Chen Gu
+  venue: Transactions on Machine Learning Research.
+  link:
+    url: https://openreview.net/pdf?id=jAHwodCUxP
+    display: paper
+
+- title: "GENESISFUNC: Multi-Agent Data Generation for Accurate and Generalizable Function-Calling"
+  authors: Hao-Xiang Xu, Chong Deng, Jiaqing Liu, Wen Wang, Qian Chen, Lujia Bao, Xiangang Li, Zhen-Hua Ling
+  venue: The 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026.
+  link:
+    url: https://arxiv.org/pdf/2605.28835
+    display: paper
+
 - title: "Reliable Batch-Sequential Model Editing via Enhanced Editing Anchor Compression"
   authors: Hao-Xiang Xu, Ziqi Peng, Xiaoyu Wang, Hanjie Guo, Zhen-Hua Ling
   venue: ACM Transactions on Intelligent Systems and Technology.
